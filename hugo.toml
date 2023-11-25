@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://aaamw.netlify.app/'
 languageCode = 'en-us'
 title = 'My Tiny Blog'
 theme = 'lugo'
