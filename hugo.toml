@@ -5,9 +5,9 @@ theme = 'lugo'
 
 [params]
 relatedtext = "Related"
-favicon = "/home/amr/Repos/lugoBlog/static/favicon.ico"
+favicon = "/static/favicon.ico"
 datesinlist = true
 authoinlist = true
 nextprev = true
 taglist = true
-showrss = false              #false for now!
+showrss = false      #false for now!
