@@ -5,7 +5,7 @@ tags = ['journalEntry']
 draft = false
 +++
 
-![businessman](/businessMan.png)
+![businessman](/images/businessMan.png)
 
 ## Where it is at
 
