@@ -2,3 +2,12 @@ baseURL = 'https://aaamw.netlify.app/'
 languageCode = 'en-us'
 title = 'My Tiny Blog'
 theme = 'lugo'
+
+[params]
+relatedtext = "Related"
+favicon = "/home/amr/Repos/lugoBlog/static/favicon.ico"
+datesinlist = true
+authoinlist = true
+nextprev = true
+taglist = true
+showrss = false              #false for now!
