@@ -2,7 +2,7 @@
 title = 'Sadly Different'
 date = 2023-11-28T16:55:13+02:00
 tags = ['journalEntry']
-draft = true
+draft = false
 +++
 
 ## I hate that
